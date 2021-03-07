@@ -1,4 +1,4 @@
-# [B4XPAGES] CURRENCY QUOTES [B4X](https://www.b4x.com/android/forum/threads/b4xpages-designer-login-example-code-b4x-ux-designer.128343/)
+# [B4XPAGES] DESIGNER LOGIN EXAMPLE - CODE B4X - UX DESIGNER [B4X](https://www.b4x.com/android/forum/threads/b4xpages-designer-login-example-code-b4x-ux-designer.128343/)
 
 > Source Code for [B4X](https://www.b4x.com/).
 
