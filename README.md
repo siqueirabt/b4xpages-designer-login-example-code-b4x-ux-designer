@@ -1,20 +1,27 @@
-# Dracula for [X](http://link-to-x.com)
+# [B4XPAGES] CURRENCY QUOTES [B4X](https://www.b4x.com/android/forum/threads/b4xpages-designer-login-example-code-b4x-ux-designer.128343/)
 
-> A dark theme for [X](http://link-to-x.com).
+> Source Code for [B4X](https://www.b4x.com/).
 
-![Screenshot](./screenshot.png)
+Hi, my name is Lucas Siqueira 🇧🇷 !
+I am very happy 😁 to share with you the designer at B4XPAGES.
 
-## Install
+![Screenshot](./LOGIN_EXAMPLE.png)
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+## Be Happy
+
+I hope you like the layout and my contributions! 🤓💻
+I'm in love 🥰😍 with B4X!
+
+Made with ❤ in [B4X](https://www.b4x.com/)
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-[![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) |
---- |
-[Zeno Rocha](https://github.com/zenorocha) |
+| [![Lucas Siqueira](https://avatars2.githubusercontent.com/u/56195918?v=3&s=70)](https://github.com/siqueirabt) |
+| --- |
+| [Lucas Siqueira](https://github.com/siqueirabt)
+
 
 ## License
 
